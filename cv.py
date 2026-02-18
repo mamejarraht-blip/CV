@@ -10,11 +10,9 @@ with col1:
 
 
 st.header("compétences")
-col1=st.columns(1)
-with col1:
-    st.subheader("Géeomatique")
-    st.write("* Connaissance et traitement des données sur Arcmap et Qgis")
-    st.write("* Maitrise des outils SIG Systémes d'Informaton Géographique")
-    st.write("* Etude topographique")
-    st.write("* Réalisation de projet batiment 2D sue Autocad")
+st.subheader("Géeomatique")
+st.write("* Connaissance et traitement des données sur Arcmap et Qgis")
+st.write("* Maitrise des outils SIG Systémes d'Informaton Géographique")
+st.write("* Etude topographique")
+st.write("* Réalisation de projet batiment 2D sue Autocad")
     st.write("* Réalisation de projet batiment 3D SUR Sketchup")
