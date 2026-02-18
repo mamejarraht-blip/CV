@@ -4,9 +4,8 @@ st.subheader("Technicienne Géomatique")
 st.markdown("""je suis technicienne en géomatique,je maitrise les outils des Systémes d'Iformation Géographique SIG""")
 
 st.header("formation")
-col1,=st.columns(1)
-with col1:
-    st.write("""Diplome de technicienne Superieur en /CEDT Le G15""")
+
+st.subheader("""Diplome de technicienne Superieur en /CEDT Le G15""")
 
 
 st.header("compétences")
